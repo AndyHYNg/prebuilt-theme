@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Here is a site with a pre-built theme
 
 You can use the [editor on GitHub](https://github.com/AndyHYNg/prebuilt-theme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
